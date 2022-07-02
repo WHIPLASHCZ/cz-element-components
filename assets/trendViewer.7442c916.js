@@ -1,0 +1,1 @@
+import{_ as o,d as n,a as s,o as a,c as r,b as t,w as c}from"./index.3f2993c5.js";const _=n({setup(){}}),d={class:"trend"};function p(u,i,f,l,m,x){const e=s("cz-trend");return a(),r("div",d,[t(e,{text:"\u8425\u4E1A\u989D",state:"down",alg:"a"}),t(e,{text:"\u8425\u4E1A\u989D",state:"up"},{up:c(()=>[]),_:1})])}var $=o(_,[["render",p]]);export{$ as default};

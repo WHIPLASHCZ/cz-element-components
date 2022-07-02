@@ -1,0 +1,1 @@
+import{_ as t,d as a,a as c,o as s,e as r}from"./index.3f2993c5.js";const p=a({setup(){function o(e){console.log(e)}return{getLocation:o}},components:{}});function _(o,e,i,d,f,l){const n=c("cz-choose-area");return s(),r(n,{onSendLocation:o.getLocation},null,8,["onSendLocation"])}var m=t(p,[["render",_]]);export{m as default};
