@@ -1,0 +1,1 @@
+import{_ as t,d as r,r as a,a as l,o as c,e as i}from"./index.b66ac6c2.js";const p=r({setup(){return{isShow:a(!1)}},components:{}});function u(e,o,d,m,f,_){const n=l("cz-icon-selector");return c(),i(n,{title:"\u9009\u62E9\u56FE\u6807",modelValue:e.isShow,"onUpdate:modelValue":o[0]||(o[0]=s=>e.isShow=s)},null,8,["modelValue"])}var S=t(p,[["render",u]]);export{S as default};
